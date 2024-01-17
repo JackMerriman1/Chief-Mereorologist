@@ -1,0 +1,3 @@
+# Ignore files with the key extension
+*.key
+keys.py
